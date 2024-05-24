@@ -15,10 +15,9 @@ TypeScript   1 min           ▒░░░░░░░░░░░░░░░░
 SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 ----------------------------------------------------------------------------------------------------------
-
-| |  |  |  |  |
-|----------|----------|----------|----------|----------|
-| <img height="150" src="https://i.imgflip.com/65efzo.gif"> | <img height="150" src="https://i.imgflip.com/65efzo.gif"> | <img height="150" src="https://i.imgflip.com/65efzo.gif"> |<img height="150" src="https://i.imgflip.com/65efzo.gif"> |
+| |  |  |  |  |  |
+|----------|----------|----------|----------|----------|----------|
+![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor.gif) | ![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor.gif) | ![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor.gif) | ![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor.gif) | ![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor.gif) | ![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor.gif)
 
 
 <h1> Hey there! Ferdiansyach.</h1>
