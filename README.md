@@ -17,7 +17,7 @@ SCSS         0 secs          ░░░░░░░░░░░░░░░░░
 ----------------------------------------------------------------------------------------------------------
 | |  |  |  |  |  |
 |----------|----------|----------|----------|----------|----------|
-![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor.gif) | ![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor.gif) | ![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor.gif) | ![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor.gif) | ![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor.gif) | ![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor.gif)
+![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor1.webp) | ![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor1.webp) | ![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor1.webp) | ![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor1.webp) | ![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor1.webp) | ![](https://github.com/ferdiansyach/ferdiansyach/blob/main/tenor1.webp)
 
 
 <h1> Hey there! Ferdiansyach.</h1>
