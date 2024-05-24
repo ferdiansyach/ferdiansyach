@@ -4,6 +4,23 @@
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=ferdiansyach&theme=road_trip&include_all_commits=true">
 </picture>
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+JavaScript   3 hrs 28 mins   ██████████████████████░░░   88.45 %
+JSON         22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```
+----------------------------------------------------------------------------------------------------------
+
+| |  |  |  |  |
+|----------|----------|----------|----------|----------|
+| <img height="150" src="https://i.imgflip.com/65efzo.gif"> | <img height="150" src="https://i.imgflip.com/65efzo.gif"> | <img height="150" src="https://i.imgflip.com/65efzo.gif"> |<img height="150" src="https://i.imgflip.com/65efzo.gif"> |
+
+
 <h1> Hey there! Ferdiansyach.</h1>
 
 <h2>👦 &nbsp;About Me </h2>
@@ -51,6 +68,4 @@
   <img width="400" src="https://github-profile-trophy.vercel.app/?username=Rangga056&theme=tokyonight&no-frame=true&column=3&row=2" /> 
 </a>
 
-<p align="center">
-  <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
-</p>
+
