@@ -51,3 +51,6 @@
   <img width="400" src="https://github-profile-trophy.vercel.app/?username=Rangga056&theme=tokyonight&no-frame=true&column=3&row=2" /> 
 </a>
 
+<p align="center">
+  <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+</p>
