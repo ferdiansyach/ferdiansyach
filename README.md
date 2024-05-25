@@ -66,6 +66,3 @@ SCSS         0 secs          ░░░░░░░░░░░░░░░░░
   <br/>
   <img width="400" src="https://github-profile-trophy.vercel.app/?username=ferdiansyach&theme=tokyonight&no-frame=true&column=3&row=2" /> 
 </a>
-
-
-![snake gif](https://github.com/ferdiansyach/ferdiansyach/blob/output/github-contribution-grid-snake.gif)
