@@ -88,9 +88,6 @@ portfolio  : https://ferdiansyach-portfolio.vercel.app
 <img src="https://streak-stats.demolab.com/?user=ferdiansyach&theme=tokyonight&hide_border=true"/>
 
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ferdiansyach&theme=tokyonight&no-frame=true&column=4&row=2&margin-w=8"/>
-
 </div>
 
 ---
