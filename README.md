@@ -79,21 +79,13 @@ portfolio  : https://ferdiansyach-portfolio.vercel.app
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=ferdiansyach&screen_effect=true&theme=road_trip&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=ferdiansyach&theme=road_trip&include_all_commits=true">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=ferdiansyach&theme=road_trip&include_all_commits=true" height="200"/>
-</picture>
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ferdiansyach&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ferdiansyach&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdiansyach&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferdiansyach&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdiansyach&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=ferdiansyach&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
