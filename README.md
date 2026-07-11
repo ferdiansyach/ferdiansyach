@@ -81,7 +81,7 @@ portfolio  : https://ferdiansyach-portfolio.vercel.app
 
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ferdiansyach&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
 &nbsp;
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferdiansyach&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferdiansyach&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&hide=Jupyter%20Notebook,TeX"/>
 
 <br/>
 
